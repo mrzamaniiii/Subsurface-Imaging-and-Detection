@@ -17,6 +17,6 @@ This simulator solves the 2D acoustic wave equation, allowing users to define co
 * `fde.m`: The finite difference kernel and boundary condition handler.
 * `B01_exercise.m`: Layered velocity model (Reflection/Transmission).
 * `B02_exercise.m`: Energy decay and geometric spreading analysis.
-* `B03_exercise.m`: **Beamforming** and acoustic focusing on targets.
+* `B03_exercise.m`: Beamforming and acoustic focusing on targets.
 * `B04_exercise.m`: Refraction modeling and Shot Gather generation.
 * `B05_exercise.m`: Complex scattering from high-velocity obstacles.
